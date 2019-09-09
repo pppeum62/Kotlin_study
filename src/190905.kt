@@ -26,4 +26,7 @@ fun main(args: Array<String>) {
     } else{
         println("Bye")
     }
+
+    var r = if(d >= 200) "Hello" else "Bye"
+    println(r)
 }
