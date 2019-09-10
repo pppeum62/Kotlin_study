@@ -45,4 +45,11 @@ fun main(args: Array<String>) {
         is Double -> println(x.toInt())
         else -> println("No Match")
     }
+
+    var score = 100
+    var grade2 = when(score) {
+        in 91 .. 100 -> "A"
+        in 81 .. 90 -> "B"
+        else -> "C"
+    }
 }
