@@ -62,4 +62,30 @@ fun main(args: Array<String>) {
     for(i in arr) {
         println(i)
     }
+
+    for(c in "Hello"){
+        println(c)
+    }
+
+    //키, 값 쌍
+    var pair1 = Pair("name", "이기쁨")
+    var pair2 = Pair("age", 18)
+    var pair3 = 100 to "hundred"
+
+    var myMap : Map<Any, Any> = mapOf(pair1, pair2, pair3)
+    println(myMap)
+
+    for(item in myMap){
+        println(item)
+    }
+
+    println(myMap["name"])
+
+    // Q) 짝수로 된 구구단만 출력
+    for(i in 2 until 10){
+        if(i % 2 != 0) continue
+        for(j in 2 until 10){
+            println("$i x $j = ${i*j}")
+        }
+    }
 }
