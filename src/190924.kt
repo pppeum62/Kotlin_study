@@ -1,4 +1,12 @@
 import kotlin.random.Random
+import myPackage.myUtilFunc as utilFunc
+
+fun outer(){
+    fun inner() : String {
+        return "Hello"
+    }
+    println(inner())
+}
 
 fun returnRandomListGenerator(amount: Int, strategy: (Random) -> Int = { r-> r.nextInt() }) : () -> Array<Int> {
     val r = Random(System.currentTimeMillis())
@@ -48,4 +56,17 @@ fun main(args: Array<String>){
 
     val calcResult1 = calcurator({x, y -> x + y}, 2, 3)
     val calcResult2 = calcurator({x, y -> x * y}, 2, 3)
+
+    val getFiveRandomNumber = returnRandomListGenerator(5)
+    val fiveRandomNumbers = getFiveRandomNumber()
+    for(randomNumber in fiveRandomNumbers) {
+        println(randomNumber)
+    }
+
+    // Q) 1-6까지 주사위 눈을 10번 굴린 결과를 담은 배열을 출력하는 함수 만들기
+    var generateRandom10DiceNumber = returnRandomListGenerator(10) {it.nextInt(1, 7)}
+
+    for(n in generateRandom10DiceNumber()){
+        println(n)
+    }
 }

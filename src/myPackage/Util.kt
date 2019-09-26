@@ -1,0 +1,3 @@
+package myPackage
+
+fun myUtilFunc() { }
