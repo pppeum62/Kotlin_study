@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4289b10e-4876-4f3a-810e-52e44f544a01" name="Default Changelist" comment="190903 study">
-      <change afterPath="$PROJECT_DIR$/src/190926.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPackage/Util.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/190930.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt$main$calcResult1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt$main$calcResult1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt$main$calcResult2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt$main$calcResult2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnRandomListGenerator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnRandomListGenerator$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnRandomListGenerator$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnRandomListGenerator$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnStringPrintFunc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnStringPrintFunc$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/190924.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/190924.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190926Kt$main$generateRandom10DiceNumber$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190926Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190926Kt.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,20 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin._190926Kt">
-    <configuration name="_190917Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_190917Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._190930Kt">
     <configuration name="_190919Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="VM_PARAMETERS" />
@@ -110,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_190930Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_190930Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._190930Kt" />
         <item itemvalue="Kotlin._190926Kt" />
         <item itemvalue="Kotlin._190924Kt" />
         <item itemvalue="Kotlin._190923Kt" />
         <item itemvalue="Kotlin._190919Kt" />
-        <item itemvalue="Kotlin._190917Kt" />
       </list>
     </recent_temporary>
   </component>
