@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4289b10e-4876-4f3a-810e-52e44f544a01" name="Default Changelist" comment="190903 study">
-      <change afterPath="$PROJECT_DIR$/src/190930.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/191007.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt$main$calcResult1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt$main$calcResult1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt$main$calcResult2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt$main$calcResult2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnRandomListGenerator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnRandomListGenerator$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnRandomListGenerator$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnRandomListGenerator$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnStringPrintFunc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt$returnStringPrintFunc$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190924Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190924Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190926Kt$main$generateRandom10DiceNumber$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/_190926Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/_190926Kt.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
