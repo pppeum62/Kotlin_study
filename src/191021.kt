@@ -32,6 +32,12 @@ abstract class AbstractClass(var a: Int) {
     abstract fun abstractF(arg: Int) : Int
 }
 
+class ConcreteClass(a: Int, var b: Int) : AbstractClass(a) {
+    override fun abstractF(arg: Int): Int {
+        return 0
+    }
+}
+
 class LateIninClass {
     // lateinit
     lateinit var a: String
