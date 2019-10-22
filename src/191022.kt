@@ -58,5 +58,18 @@ class Circle(var radius: Double) : Shape {
 }
 
 fun main(args: Array<String>){
+    var r = Rectangle(1.0, 2.0)
+    var c = Circle(1.0)
 
+    // is는 java의 instanceof이다. (타입 확인용)
+    println(r is Rectangle)     // true
+    println(r is Shape)         // true
+    println(r is Any)           // ture
+
+    // as (타입 캐스팅 연산자)
+    var s1 : Shape = r as Shape
+    var s2 : Shape = c
+
+    var r1 = s1 as Rectangle
+    var c1 = s2 as Circle
 }
