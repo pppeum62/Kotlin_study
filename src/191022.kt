@@ -70,6 +70,12 @@ fun main(args: Array<String>){
     var s1 : Shape = r as Shape
     var s2 : Shape = c
 
+    println(s1.calculateArea())
+    println(s2.calculateArea())
+
     var r1 = s1 as Rectangle
     var c1 = s2 as Circle
+
+    var r2 : Circle? = s1 as? Circle
+    println(r2 == null)
 }
